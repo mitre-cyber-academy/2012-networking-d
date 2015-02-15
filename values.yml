@@ -1,0 +1,4 @@
+name: "Agent 007"
+description: |
+  Congratulations, you have successfully infultrated MI6 as a double agent. Your next mission, which you will accept whether you like it or not, is to steal Agent 007's latest mission plans. Now that you have access to MI6 you have access to their intranet system. Download the [client login program](http://$server) and get in anyway you can.
+flag: "MCA-FCA7DE76"

@@ -1,0 +1,21 @@
+html {
+	
+}
+
+a:link { color: rgb(184, 216, 213); }
+a:visited { color: rgb(184, 216, 213); }
+a:hover { color: rgb(184, 216, 213); }
+a:active { color: rgb(184, 216, 213); }
+
+body {
+	background-color: #000;
+	background-image: url('/images/mi6.jpg');
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 17pt;
+	font-family: monospace;
+}
+
+#content {
+	margin: 50px 0 0 750px;
+}
